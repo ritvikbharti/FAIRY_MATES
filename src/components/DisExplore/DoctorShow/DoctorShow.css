@@ -1,0 +1,25 @@
+.card-main{
+  height: 90rem;
+  width: 90vw;
+  /* background-color: bisque; */
+  margin: auto;
+  margin-top: 8rem;
+}
+.card-main-heading{
+  height: 10rem;
+  width: 80rem;
+
+}
+.card-main-heading p{
+  font-size: 49px;
+  font-weight: 600;
+}
+.doc-card-container{
+  height:80rem;
+  width: 100%;
+  margin-top: 3rem;
+  /* background-color: aqua; */
+  display: flex;
+  flex-wrap:wrap ;
+  justify-content: space-around;
+}

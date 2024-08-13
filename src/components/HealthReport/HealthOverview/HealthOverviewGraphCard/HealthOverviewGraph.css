@@ -1,0 +1,46 @@
+.graph-main{
+  height: 27rem;
+  width: 37rem;
+  /* background-color: black; */
+  border-radius: 1rem;
+  box-shadow: 1px 5px 8px rgba(65, 63, 63, 0.452) ;
+}
+.graph-heading{
+  height: 3rem;
+  width: 37rem;
+  /* background-color: aliceblue; */
+}
+.graph-heading p{
+  font-size: 22px;
+  font-weight: 500;
+
+}
+.graph-heading  img{
+  height: 24px;
+  width: 24px;
+  margin: 2px;
+  margin-left: 17px;
+  margin-right: 7px;
+
+}
+.graph-rate{
+  height: 3rem;
+  width: 37rem;
+  /* margin-top: 1rem; */
+  /* background-color: aliceblue; */
+  padding: 3px;
+}
+.fx{
+  font-size: 18px;
+  color: brown;
+  margin-left: 5rem;
+}
+.graph-rate-gra{
+  height: 19rem;
+  width: 32rem;
+  margin: 1rem;
+  background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/heartgraph.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

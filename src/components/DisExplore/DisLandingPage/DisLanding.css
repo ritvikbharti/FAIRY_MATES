@@ -1,0 +1,98 @@
+.main-con{
+  height:75vh;
+  width: 90vw;
+  /* background-color: aquamarine; */
+  margin-top: 9rem;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 5px 8px rgba(65, 63, 63, 0.452) ;
+  
+
+}
+.main-con-inner-1{
+  height: 75vh;
+  width: 50vw;
+  /* background-color: beige; */
+}
+.main-con-inner-2{
+  height: 60vh;
+  width: 53vw;
+  /* background-color: rgb(233, 233, 79); */
+}
+.main-con-inner-2{
+  height: 50vh;
+  width: 35vw;
+  border-radius: 1rem;
+  background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/randomimage.png);
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  margin-right: 1rem;
+  margin-top: 3rem;
+}
+/* .img1{
+  background-image: ;
+} */
+.main-con-heading{
+  height: 15vh;
+  width: 50vw;
+  /* background-color: azure; */
+  margin-right: 5rem;
+  margin-top: 2rem;
+}
+.main-con-heading p{
+  font-size: 37px;
+  font-weight: 600;
+  margin-right: 5rem;
+}
+.main-con-desc{
+  height:30vh;
+  width: 30vw;
+  margin-right: 12rem;
+  /* background-color: aquamarine; */
+}
+.main-con-desc p{
+  font-size: 12px;
+  color: gray;
+  text-decoration: none;
+}
+.main-con-btn{
+  height: 11vh;
+  width: 40vw;
+  /* background-color: blueviolet; */
+  /* display:flex; */
+
+
+}
+.main-con-btn1{
+
+  height: 10vh;
+  width: 17vw;
+  background-color: rgb(249, 146, 163);
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.main-con-btn1 p{
+  font-size: 29px;
+  font-weight: 500;
+}
+.main-con-btn2{
+
+  height: 10vh;
+  width: 19vw;
+  border-radius: 1rem;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.main-con-btn2 p{
+  font-size: 29px;
+  font-weight: 500;
+}

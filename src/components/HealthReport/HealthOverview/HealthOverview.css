@@ -1,0 +1,43 @@
+.health-overview-main{
+  height: 70rem;
+  width:121rem;
+  margin: 2rem;
+  margin-top: 12rem;
+  
+  /* background-color: aquamarine; */
+}
+.health-overview-main-inner1{
+  height: 57rem;
+  width: 91rem;
+  /* background-color: antiquewhite; */
+}
+.health-overview-main-inner2{
+  height: 41rem;
+  width: 27rem;
+  background-color: rgb(61, 55, 243);
+}
+.health-overview-heading{
+  height: 5rem;
+  width: 91rem;
+  /* background-color: aqua; */
+}
+.health-overview-heading p{
+  font-size: 37px;
+  
+}
+.health-overview-graph-container{
+  height: 59rem;
+  width: 91rem;
+  /* background-color: pink; */
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+.main-graph{
+  height: 27rem;
+  width: 37rem;
+  background-color: black;
+}

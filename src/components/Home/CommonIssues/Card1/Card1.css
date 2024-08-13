@@ -1,0 +1,164 @@
+@media (min-width: 600px) {
+  .card1{
+
+    height: 35rem;
+    width: 27%;
+    border-radius: 2rem;
+    box-shadow: 1px 5px 8px rgba(65, 63, 63, 0.452) ;
+    margin: 2rem;
+    /* background-color: aquamarine; */
+  }
+  .up1card1{
+    height: 50%;
+    width: 100%;
+    border-radius: 2rem 2rem 0 0 ;
+    background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/pcod.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .down1{
+    height: 50%;
+    width: 100%;
+    /* background-color: rebeccapurple; */
+    border-radius: 0 0 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .down1 .inner1{
+    width: 100%;
+    height: 3rem;
+    /* background-color: black; */
+    margin-top: 2rem;
+  }
+  .inner1 p{
+  color: rgb(9, 9, 9);
+  font-size: 21px;
+  padding: 2px;
+  margin-left: 2%;
+  overflow: hidden;
+  }
+  .down1 .inner2{
+    width: 100%;
+    height: 11rem;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .description{
+    height: 5rem;
+    width: 100%;
+    /* background-color: antiquewhite; */
+  }
+  .description p{
+    font-size: 13px;
+    margin-left: 5%;
+    overflow-y: hidden;
+  }
+  .exp-btn{
+    height: 40%;
+    width: 100%;
+    margin-top: 1%;
+    /* background-color: blue; */
+  }
+  .buttone{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(56, 134, 134);
+    margin-right: 2%;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .buttone p{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 21px;
+    padding-top: 3%;
+  }
+}
+.card1{
+
+  height: 35rem;
+  width: 27%;
+  border-radius: 2rem;
+  box-shadow: 1px 5px 8px rgba(65, 63, 63, 0.452) ;
+  margin: 2rem;
+  /* background-color: aquamarine; */
+}
+.up1card1{
+  height: 50%;
+  width: 100%;
+  border-radius: 2rem 2rem 0 0 ;
+  background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/pcod.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.down1{
+  height: 50%;
+  width: 100%;
+  /* background-color: rebeccapurple; */
+  border-radius: 0 0 2rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.down1 .inner1{
+  width: 100%;
+  height: 3rem;
+  /* background-color: black; */
+  margin-top: 2rem;
+}
+.inner1 p{
+color: rgb(9, 9, 9);
+font-size: 21px;
+padding: 2px;
+margin-left: 2%;
+overflow: hidden;
+}
+.down1 .inner2{
+  width: 100%;
+  height: 11rem;
+  /* background-color: blue; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.description{
+  height: 5rem;
+  width: 100%;
+  /* background-color: antiquewhite; */
+}
+.description p{
+  font-size: 13px;
+  margin-left: 5%;
+  overflow-y: hidden;
+}
+.exp-btn{
+  height: 40%;
+  width: 100%;
+  margin-top: 1%;
+  /* background-color: blue; */
+}
+.buttone{
+  height: 100%;
+  width: 40%;
+  background-color: rgb(56, 134, 134);
+  margin-right: 2%;
+  border-radius: 1rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.buttone p{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 21px;
+  padding-top: 3%;
+}

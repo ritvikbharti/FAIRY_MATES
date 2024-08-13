@@ -1,0 +1,77 @@
+.doc-card-container-inner{
+  height: 35rem;
+  width: 49%;
+  /* background-color: rgb(220, 134, 28); */
+  border: 1px solid;
+  border-radius: 1rem;
+}
+.doc-card-container-profile{
+  height: 32rem;
+  width: 15rem;
+  /* background-color: aquamarine; */
+  margin: 1rem;
+
+}
+.doc-card-container-desc{
+  height: 32rem;
+  width: 28rem;
+  /* background-color: aquamarine; */
+  margin: 1rem;
+
+}
+.card-con{
+    height: 19rem;
+    width: 21rem;
+    margin: 1rem;
+    box-shadow: 1px 5px 8px rgba(65, 63, 63, 0.452) ;
+    border-radius: 1rem;
+    background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/doc2.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .in-btn{
+    height: 5rem;
+    width: 21rem;
+    margin-top: 2.5rem;
+    border-radius: 1rem;
+    background-color: rgb(31, 228, 31);
+    margin-left: 1rem;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
+  .in-btn p{
+    padding-top: 1rem;
+    font-size: 24px;
+    font-weight: 500;
+    color: aliceblue;
+
+  }
+  .doc-card-name{
+    height: 6rem;
+    width: 30rem;
+    /* background-color: aqua; */
+  }
+  .doc-card-name p{
+    font-size: 37px;
+    font-weight: 500;
+  }
+.doc-card-desc{
+  margin-top: 2rem;
+  height: 15rem;
+  width: 30rem;
+  /* background-color: aqua; */
+
+}
+.doc-card-desc li{
+  font-size: 15px;
+  color: gray;
+}
+/* .doc-card-rating{
+
+}
+   */

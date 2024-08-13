@@ -1,0 +1,120 @@
+.login-main-container{
+  height: 50rem;
+  width: 40rem;
+  /* background-color: aquamarine; */
+  border-radius: 2rem;
+  box-shadow: 1px 5px 8px rgba(93, 89, 89, 0.452) ;
+  margin-top: 10rem;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+
+#sign-in{
+  padding: 0px;
+  display: flex;
+  flex: row;
+  justify-content: center;
+}
+
+.log-in{
+  height: 500px;
+  width: 400px;
+  padding: 1px;
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 10%;
+}
+.inner-log-in{
+  height: 250px;
+  width: 300px;
+  border-radius: 2%;
+  border: 1px solid lightgrey;
+  display: block;
+}
+.inner-log-in h1{
+  font-size: x-large;
+  font-family: sans-serif;
+  font-weight: 520;
+ 
+  margin-left: 2px;
+  letter-spacing: 0.001cm;
+
+}
+.inner-log-in li{
+  text-decoration: none;
+  list-style-type: disc;
+  margin: 2px;
+}
+#email-put{
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02cm;
+  display: inline-block;
+  word-spacing: 0.08cm;
+  margin: 2px;
+}
+#ema{
+  margin: 4px;
+  height: 20px;
+  width: 280px;
+
+}
+#submit{
+  height: 30px;
+  width: 285px;
+  font-size: 15px;
+  background-color: rgb(255, 207, 86);
+  border-radius: 8%;
+  margin: 4px;
+  
+
+}
+#para{
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02cm;
+  display: inline-block;
+  word-spacing: 0.08cm;
+  margin: 2px;
+  
+ 
+
+}
+#buy{
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.02cm;
+  display: inline-block;
+  word-spacing: 0.08cm;
+  margin: 2px;
+ 
+}
+.create-new{
+  width: 285px;
+  height: 100px;
+  border-top: 1px solid grey;
+  /* border: 1px solid black; */
+  margin: 8px 4px 4px 2px;
+  /* margin: 2px; */
+}
+#submit2{
+  height: 30px;
+  width: 285px;
+
+  font-size: 15px;
+  background-color: rgb(245, 244, 241);
+  border: 1px solid lightgrey;
+  margin: 30px 4px 4px 2px;
+}
+.label1{
+  margin-right: 2rem;
+}
