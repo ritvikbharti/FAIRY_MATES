@@ -24,7 +24,7 @@
   height: 50vh;
   width: 35vw;
   border-radius: 1rem;
-  background-image: url(/Users/apple/Documents/Fairy-Mate/src/assets/randomimage.png);
+  background-image: url(/src/assets/randomimage.png);
   background-position: center;
   /* background-repeat: no-repeat; */
   background-size: cover;
